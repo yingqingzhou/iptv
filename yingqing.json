@@ -1,7 +1,14 @@
 {
+  "spider": "",
   "wallpaper": "https://picsum.photos/1920/1080",
   "homepage": "https://github.com/yingqingzhou",
   "sites": [],
-  "lives": [],
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv4.m3u"
+    }
+  ],
   "parses": []
 }
